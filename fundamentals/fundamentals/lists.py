@@ -56,3 +56,17 @@ print(words[2:4])
 # print(copy_of_words) # prints ['start', 'going', 'till', 'the', 'end', 'dojo']
 # print(words) # prints ['start', 'going', 'till', 'the', 'end']
 
+my_list = [1, 'zen', 'hi']
+print(len(my_list))
+my_list.pop()
+my_list.pop()
+my_list.append(9)
+my_list.append(2)
+print(my_list)
+print(max(my_list))
+print(min(my_list))
+print(sorted(my_list))
+my_list.reverse()
+print(my_list)
+my_list.sort()
+print(my_list)
