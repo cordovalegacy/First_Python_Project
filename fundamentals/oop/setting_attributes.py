@@ -18,5 +18,3 @@ print(dress_shoe.type)
 print(work_shoe.type)
 print(work_shoe)
 print(work_shoe.in_stock)
-
-# Update the in_stock attribute to False
